@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="class06-filter-listener:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0da191fd-4d0b-432d-86b0-7839f3bd71ed" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/src/main/java/com/example/class04cookesession/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/src/main/java/com/example/class04cookesession/cookie/CookieDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/src/main/java/com/example/class04cookesession/cookie/CookieDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/src/main/java/com/example/class04cookesession/cookie/CookieDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/src/main/java/com/example/class04cookesession/cookie/CookieDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04-cooke-session/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/java/com/example/class05ajaxaxios/AjaxServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/java/com/example/class05ajaxaxios/AxiosServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/java/com/example/class05ajaxaxios/CheckServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/java/com/example/class05ajaxaxios/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/webapp/ajax-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/webapp/axios-demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/webapp/axios-demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class05-ajax-axios/src/main/webapp/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/java/com/example/class06filterlistener/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/java/com/example/class06filterlistener/filter/FilterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/java/com/example/class06filterlistener/filter/FilterDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/java/com/example/class06filterlistener/filter/SensitiveWordsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/java/com/example/class06filterlistener/listener/ContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/java/com/example/class06filterlistener/servlet/SignServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/java/com/example/class06filterlistener/servlet/WordServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/resources/敏感词汇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/webapp/detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/webapp/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06-filter-listener/src/main/webapp/words.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01-servlet/target/classes/com/example/class01servlet/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/class01-servlet/target/classes/com/example/class01servlet/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01-servlet/target/classes/com/example/class01servlet/ServletDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/class01-servlet/target/classes/com/example/class01servlet/ServletDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01-servlet/target/classes/com/example/class01servlet/ServletDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/class01-servlet/target/classes/com/example/class01servlet/ServletDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class01-servlet/target/classes/com/example/class01servlet/ServletDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/class01-servlet/target/classes/com/example/class01servlet/ServletDemo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo7.class" beforeDir="false" afterPath="$PROJECT_DIR$/class02-request/target/classes/top/soft/request/RequestDemo7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/Practic/DownloadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/Practic/DownloadServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/Practic/VericyCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/Practic/VericyCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/response/ResponseDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/response/ResponseDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/response/ResponseDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/response/ResponseDemo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/response/ResponseDemo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/response/ResponseDemo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/servletContext/ServletContextDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/servletContext/ServletContextDemo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/servletContext/ServletContextDemo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/servletContext/ServletContextDemo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/servletContext/servletContextDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/servletContext/servletContextDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/servletContext/servletContextDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/class03-response/target/classes/com/example/class03response/servletContext/servletContextDemo4.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/class06-filter-listener" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven/apache-maven-3.9.9" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lrqZC9ffwFOir3BzUZorHjnHDR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/17509/Desktop/大学/web前端/dllmvp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\javaweb-learning\brand-list\src\main\webapp\CSS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\javaweb-learning\class06-filter-listener\src\main\webapp" />
+      <recent name="D:\ideaProject\javaweb-learning\class05-ajax-axios\src\main\webapp" />
+      <recent name="D:\ideaProject\javaweb-learning" />
+      <recent name="D:\ideaProject\javaweb-learning\book-online" />
+      <recent name="D:\ideaProject\javaweb-learning\class03-response\src\main\webapp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.bookonline.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.class06filterlistener.filter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 10.1.28">
+    <configuration name="UserDaoTest.insertUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bookonline.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bookonline.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bookonline.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="insertUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.28" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.28" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="class06-filter-listener:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0d079747-36ba-4533-9d2f-b21d35dc8f16" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3340" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="class06-filter-listener:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserDaoTest.insertUser" />
+      <item itemvalue="Tomcat 服务器.Tomcat 10.1.28" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDaoTest.insertUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0da191fd-4d0b-432d-86b0-7839f3bd71ed" name="更改" comment="" />
+      <created>1725948600601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725948600601</updated>
+      <workItem from="1725948601822" duration="627000" />
+      <workItem from="1725949329833" duration="9325000" />
+      <workItem from="1726099876444" duration="3236000" />
+      <workItem from="1727156111578" duration="12002000" />
+      <workItem from="1727171989872" duration="376000" />
+      <workItem from="1727172382869" duration="958000" />
+      <workItem from="1727242971217" duration="10454000" />
+      <workItem from="1727257239760" duration="2583000" />
+      <workItem from="1727315834989" duration="2842000" />
+      <workItem from="1727324972351" duration="3018000" />
+      <workItem from="1727328103986" duration="4478000" />
+      <workItem from="1727440667785" duration="2749000" />
+      <workItem from="1727601722922" duration="472000" />
+      <workItem from="1728365291017" duration="1979000" />
+      <workItem from="1728367623059" duration="923000" />
+      <workItem from="1728368566965" duration="7278000" />
+      <workItem from="1728970400546" duration="10001000" />
+      <workItem from="1728980738491" duration="1627000" />
+      <workItem from="1728987472882" duration="793000" />
+      <workItem from="1729070611262" duration="1595000" />
+      <workItem from="1729074402341" duration="679000" />
+      <workItem from="1729251440085" duration="209000" />
+      <workItem from="1729253182985" duration="78000" />
+      <workItem from="1729254011207" duration="44000" />
+      <workItem from="1729574930534" duration="7703000" />
+      <workItem from="1729582683414" duration="2356000" />
+      <workItem from="1729585064954" duration="95000" />
+      <workItem from="1729585176255" duration="1684000" />
+      <workItem from="1730180382640" duration="2761000" />
+    </task>
+    <task id="LOCAL-00001" summary="03">
+      <option name="closed" value="true" />
+      <created>1727166337255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727166337255</updated>
+    </task>
+    <task id="LOCAL-00002" summary="03">
+      <option name="closed" value="true" />
+      <created>1727167871977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727167871977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="03">
+      <option name="closed" value="true" />
+      <created>1727167922605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727167922605</updated>
+    </task>
+    <task id="LOCAL-00004" summary="03">
+      <option name="closed" value="true" />
+      <created>1727172113058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727172113058</updated>
+    </task>
+    <task id="LOCAL-00005" summary="03">
+      <option name="closed" value="true" />
+      <created>1727172780837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727172780837</updated>
+    </task>
+    <task id="LOCAL-00006" summary="04">
+      <option name="closed" value="true" />
+      <created>1727173141682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727173141682</updated>
+    </task>
+    <task id="LOCAL-00007" summary="04">
+      <option name="closed" value="true" />
+      <created>1727443106761</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727443106761</updated>
+    </task>
+    <task id="LOCAL-00008" summary="04">
+      <option name="closed" value="true" />
+      <created>1727443231749</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727443231749</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/brand-list" />
+    </ignored-roots>
+    <MESSAGE value="03" />
+    <MESSAGE value="04" />
+    <option name="LAST_COMMIT_MESSAGE" value="04" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/book-online2/src/main/java/com/example/bookonline/dao/UserDaoImpl.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/book-online2/src/main/java/com/example/bookonline/dao/UserDaoImpl.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

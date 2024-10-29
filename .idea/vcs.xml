@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/class01-servlet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/class02-request" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/class03-response" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/class04-cooke-session" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/class05-ajax-axios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/class06-filter-listener" vcs="Git" />
+  </component>
+</project>
